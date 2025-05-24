@@ -6,7 +6,7 @@ import {
 } from "@medusajs/medusa"
 import {
   useAdminAddLocationToSalesChannel,
-  useAdminCreateStockLocation,
+  // useAdminCreateStockLocation,
 } from "medusa-react"
 import { useForm } from "react-hook-form"
 import Button from "../../../../components/fundamentals/button"
